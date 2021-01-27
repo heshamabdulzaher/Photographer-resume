@@ -17,3 +17,9 @@ Git
 ----- You're gonna use the below commands one time per project.
 . "git init" > start use Git & initialize it.
 . "git remote add origin https://...." > To let VSC know which repo do u want to connect it with this project.
+
+You must know these base commads:
+- Create new repository (repo).
+- Connect your project with that repo.
+- Push your changes.
+- clone repo.
