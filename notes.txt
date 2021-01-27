@@ -1,0 +1,22 @@
+# VSC extensions:
+. Emmet
+. Prettier
+. Live server
+. Ayu Themes
+
+-------------------------------
+
+Git
+------ download & install
+. Google "Download git" & Download it.
+. Install git, If u don't know how to install it *search*.
+. Congrats! now u have git desktop app, now u can use git.
+
+------- Start use it
+. Open the terminal.
+----- You're gonna use the below commands one time per project.
+. "git init" > to initialize git or in another words start use Git.
+. "git remote add origin https://...." > To let VSC know which repo do u want to connect it with this project.
+------ You're gonna use the below commands whenever you've done of some changes and you want to push the code.
+. "git commit -m "Commit message"" > What did you do ?
+. "git push -u origin main" > to push your changes you've made on your machine locally
